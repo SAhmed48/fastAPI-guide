@@ -1,4 +1,4 @@
-# FastAPI-course
+# FastAPI Guide
 The repo contains step by step guide to learning the fastAPI framework. The repo is not limited to the step-by-step guide but contains real-time projects.
 
 ## What is FastAPI?
