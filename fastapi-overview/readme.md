@@ -1,11 +1,11 @@
 ## Section !: FastAPI overview
 
 ### Installation:
-The first step towards installation is create a virtual env for the fastAPI.
+The first step towards installation is to create a virtual env for the fastAPI.
 
-- Check python version 
+- Check the python version 
 ```python --version```
-- Install virtual env package.
+- Install the virtual env package.
 ```pip install virtualenv```
 - Create virtual env.
 ```python3 -m venv fastapi-env```
@@ -14,7 +14,7 @@ The first step towards installation is create a virtual env for the fastAPI.
 - Install fastapi package.
 ```pip3 install fastapi```
 
-We also need server to run fastapi.
+We also need a server to run fastapi.
 - Install UNVICORN server package.
 ```pip3 install uvicorn```
 - Check uvicorn version
