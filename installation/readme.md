@@ -1,6 +1,5 @@
-## Section !: FastAPI overview
+## Section 1: Installation Guide
 
-### Installation:
 The first step towards installation is to create a virtual env for the fastAPI.
 
 - Check the python version 
