@@ -6,7 +6,7 @@ FastAPI is a fastest api development framework created by [Sebastián Ramírez](
 
 The key features of FastAPI are:
 
-- Fast: Very high performance, on per with NodeJS and Go.
+- Fast: High performance.
 
 - Fast to code: Increase the speed to develop features by about 200% to 300%.
 
@@ -22,5 +22,5 @@ The key features of FastAPI are:
 
 ### Section 1: FastAPI overview
 
-- FastAPI installation.
-- FastAPI features overview.
+- FastAPI Installation.
+- FastAPI Features overview.
