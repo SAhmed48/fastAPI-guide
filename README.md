@@ -1,5 +1,5 @@
 # FastAPI Guide
-The repo contains step by step guide to learning the fastAPI framework. The repo is not limited to the step-by-step guide but contains real-time projects.
+The repo contains step by step guide to learn the fastAPI framework. The repo is not limited to the step-by-step guide but contains real-time projects.
 
 ## What is FastAPI?
 FastAPI is a fastest api development framework created by [Sebastián Ramírez](https://tiangolo.com/) 
